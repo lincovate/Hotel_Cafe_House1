@@ -45,7 +45,7 @@ const Home = () => {
                 <li><Link to="/today-special">Today Special</Link></li>
                 <li><Link to="/menu">Menu</Link></li>
                 <li><Link to="/contact">Contact</Link></li>
-                <li><a href="https://www.lincovate.com/#/videos"><i><strong>Lincovate</strong></i></a></li>
+                <li><a href="https://www.lincovate.com/#/websites"><i><strong>Lincovate</strong></i></a></li>
               </ul>
             </nav>
 
